@@ -9,4 +9,6 @@
     <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties data_1json__JSONSchema="http://json.schemastore.org/json-patch" /></VisualStudio></ProjectExtensions>
+
 </Project>

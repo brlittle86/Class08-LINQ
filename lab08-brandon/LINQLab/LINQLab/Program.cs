@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Linq;
 
 namespace LINQLab
 {
@@ -6,7 +8,16 @@ namespace LINQLab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string deserializedJSON = GetJSONString();
+        }
+
+        static string GetJSONString()
+        {
+            using (StreamReader sr = File.OpenText("data.json"))
+            {
+                string[] json = File.ReadAllLines("data.json");
+                return json[0];
+            }
         }
     }
 }
