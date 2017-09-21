@@ -6,3 +6,6 @@ C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug
 C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug\netcoreapp2.0\LINQLab.csproj.CoreCompileInputs.cache
 C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug\netcoreapp2.0\LINQLab.AssemblyInfoInputs.cache
 C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug\netcoreapp2.0\LINQLab.AssemblyInfo.cs
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\bin\Debug\netcoreapp2.0\LINQLab.pdb
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug\netcoreapp2.0\LINQLab.dll
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug\netcoreapp2.0\LINQLab.pdb
