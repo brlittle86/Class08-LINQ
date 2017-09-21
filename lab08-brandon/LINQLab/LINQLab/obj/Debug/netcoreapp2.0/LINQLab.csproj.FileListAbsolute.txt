@@ -1,0 +1,8 @@
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\bin\Debug\netcoreapp2.0\LINQLab.deps.json
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\bin\Debug\netcoreapp2.0\LINQLab.runtimeconfig.json
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\bin\Debug\netcoreapp2.0\LINQLab.runtimeconfig.dev.json
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\bin\Debug\netcoreapp2.0\LINQLab.dll
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug\netcoreapp2.0\LINQLab.csprojResolveAssemblyReference.cache
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug\netcoreapp2.0\LINQLab.csproj.CoreCompileInputs.cache
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug\netcoreapp2.0\LINQLab.AssemblyInfoInputs.cache
+C:\Users\akure\Source\Repos\Class08-LINQ\lab08-brandon\LINQLab\LINQLab\obj\Debug\netcoreapp2.0\LINQLab.AssemblyInfo.cs
